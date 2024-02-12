@@ -1,0 +1,11 @@
+C:\Users\USER\OneDrive\Desktop\PRMS\PatientInfo\PatientInfo\bin\Debug\PatientInfo.exe.config
+C:\Users\USER\OneDrive\Desktop\PRMS\PatientInfo\PatientInfo\bin\Debug\PatientInfo.exe
+C:\Users\USER\OneDrive\Desktop\PRMS\PatientInfo\PatientInfo\bin\Debug\PatientInfo.pdb
+C:\Users\USER\OneDrive\Desktop\PRMS\PatientInfo\PatientInfo\obj\Debug\PatientInfo.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Desktop\PRMS\PatientInfo\PatientInfo\obj\Debug\PatientInfo.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\OneDrive\Desktop\PRMS\PatientInfo\PatientInfo\obj\Debug\PatientInfo.Dashboard.resources
+C:\Users\USER\OneDrive\Desktop\PRMS\PatientInfo\PatientInfo\obj\Debug\PatientInfo.Properties.Resources.resources
+C:\Users\USER\OneDrive\Desktop\PRMS\PatientInfo\PatientInfo\obj\Debug\PatientInfo.csproj.GenerateResource.cache
+C:\Users\USER\OneDrive\Desktop\PRMS\PatientInfo\PatientInfo\obj\Debug\PatientInfo.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\PRMS\PatientInfo\PatientInfo\obj\Debug\PatientInfo.exe
+C:\Users\USER\OneDrive\Desktop\PRMS\PatientInfo\PatientInfo\obj\Debug\PatientInfo.pdb
